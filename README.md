@@ -1,4 +1,4 @@
-# Bhop-SCPSL
+# Bhop_SCPSL
 Bhop SCPSL was created purely to make it easier to play, not to harm other projects, etc. Also, if I'm not mistaken, it seems to be banned on many projects, but I don't know for sure. It's best to check for yourself.
 
 # AHK Function
